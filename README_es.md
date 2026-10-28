@@ -1,6 +1,6 @@
 # CAPSTONE - DuckyWare
 
-**Versión en inglés:** [README.md](README.md)
+- 🇬🇧 **English:** [Full documentation](./README.md)
 
 ## Proyecto final del curso CS50W
 
